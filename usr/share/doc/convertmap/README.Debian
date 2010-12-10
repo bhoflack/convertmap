@@ -1,0 +1,15 @@
+convertmap for Debian
+---------------------
+
+Command line parameters:
+------------------------
+         input            = <TH01 map> | <THA1 map>
+         outputFormat     = <'Amkor' | 'Carsem' | 'ElmosAP' | 'SiemensVDO' | 'MPD' >
+         destinationDir   = <folder to store results>
+         pathToDeviceFile = <folder to store device specific information>
+         deviceFile       = <deviceFile>
+         checkWafermapChips
+         help
+         verbose
+
+ -- Brecht Hoflack <brh@melexis.com>, Mon, 21 May 2007 10:36:08 +0200
